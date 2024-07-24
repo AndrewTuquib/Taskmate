@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Taskmate/static/css/main.d5e57035.css",
-    "main.js": "/Taskmate/static/js/main.4c26814a.js",
+    "main.css": "/Taskmate/static/css/main.1414f9d2.css",
+    "main.js": "/Taskmate/static/js/main.fd5d39fb.js",
     "static/media/logo.png": "/Taskmate/static/media/logo.25e1f9982c240d812561.png",
     "index.html": "/Taskmate/index.html",
-    "main.d5e57035.css.map": "/Taskmate/static/css/main.d5e57035.css.map",
-    "main.4c26814a.js.map": "/Taskmate/static/js/main.4c26814a.js.map"
+    "main.1414f9d2.css.map": "/Taskmate/static/css/main.1414f9d2.css.map",
+    "main.fd5d39fb.js.map": "/Taskmate/static/js/main.fd5d39fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5e57035.css",
-    "static/js/main.4c26814a.js"
+    "static/css/main.1414f9d2.css",
+    "static/js/main.fd5d39fb.js"
   ]
 }
